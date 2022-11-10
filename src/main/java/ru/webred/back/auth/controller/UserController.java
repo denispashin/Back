@@ -1,2 +1,4 @@
-package ru.webred.back.auth.controller;public class UserController {
+package ru.webred.back.auth.controller;
+
+public class UserController {
 }
