@@ -7,3 +7,4 @@ import org.springframework.stereotype.Service;
 //public class RoleServiceImpl implements RoleService{
 //    private RoleRepository roleReposotory;
 //}
+// получения поля из базы

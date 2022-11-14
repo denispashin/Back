@@ -1,9 +1,9 @@
-spring:
-  datasource:
-    url: jdbc:h2:mem:default
-    username: sa
-    password:
+#spring:
+#  datasource:
+#    url: jdbc:h2:~/default
+#    username: sa
+#    password:
 server:
   port: 8080
-  servlet:
-  context-path: /auth
+#  servlet:
+#  context-path: /auth
